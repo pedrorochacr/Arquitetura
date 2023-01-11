@@ -1,0 +1,12 @@
+.consultoria_titulo{
+    margin: 0px 50px;
+   
+}
+.consultoria_detalhes{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 35px;
+}
+.consultoria_detalhes div{
+    margin: 10px 25px;
+}
